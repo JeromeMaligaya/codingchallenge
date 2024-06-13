@@ -1,0 +1,85 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+
+.contenitore1{
+    width: 50%;
+    background-color:rgba(0, 0, 0, 0.5);
+    margin:auto;
+    padding:10%;
+    border-radius: 15px;   
+}
+
+
+.titolo{
+    text-align: center;
+    color:rgb(77, 231, 0);
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.logo{
+    width: 25%;  
+ }
+
+
+.greenbar{ 
+    text-align: center;
+    background-color:rgb(77, 231, 0);
+    padding: 10px;
+}
+
+
+
+.contenitore2{
+    color: white;
+}
+
+
+div>span {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 20px;
+    font-style: normal;
+  }
+  
+
+.padding{
+    padding-top: 15px;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+
+
+
+.carica1{
+    width: 45%;
+    background-color: goldenrod;
+    
+}
+
+
+.carica2{
+    width: 75%;
+    background-color: rgb(36, 166, 0);
+   
+}
+
+
+.carica3{
+    width: 20%;
+    background-color:crimson;   
+   
+}
+
+
+.carica1,.carica2,.carica3{
+    height: 25px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+
+
